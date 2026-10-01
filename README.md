@@ -124,3 +124,4 @@ Food photography is from [Unsplash](https://unsplash.com) and is loaded from the
 ---
 
 © 2026 Homemade Kitchen.
+# homemade-kitchen
